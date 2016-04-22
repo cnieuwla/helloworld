@@ -16,7 +16,7 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        String var = "Hello World2!!";
+        String var = "Hello World22!!";
         Integer a = 1;
         Integer b = 2;
         Integer c = a+b;
